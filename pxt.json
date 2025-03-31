@@ -1,6 +1,6 @@
 {
-    "name": "bmp280betaVrJP",
-    "description": "BMP280 MakeCode extension with multi-language support (English/Japanese)",
+    "name": "BMP280Proto",
+    "description": "BMP280 MakeCode extension with multi-language support (Japanese)",
     "icon": "icon.png",
     "dependencies": {
         "core": "*"
@@ -8,7 +8,6 @@
     "files": [
         "main.blocks",
         "main.ts"
-        "strings.json"
     ],
     "testFiles": [
         "test.ts"
@@ -22,6 +21,5 @@
     ],
     "preferredEditor": "tsprj"
     "supportedLanguages": [
-        "en",
         "ja"
 }
