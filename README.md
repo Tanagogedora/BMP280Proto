@@ -10,7 +10,7 @@ Sensor values are based on the official BMP280 datasheet.
 この拡張機能は、BMP280 デジタル気圧・気温センサーを micro:bit の MakeCode 上で利用するためのものです。  
 気圧と気温の測定が可能です。センサー仕様は BMP280 のデータシートに基づいています。
 
-> 🔗 **Demo Page:**デモページを見る: [https://tanagogedora.github.io/bmp280betaVrJP/](https://tanagogedora.github.io/bmp280betaVrJP/)
+> 🔗 **Demo Page:**デモページを見る: [https://tanagogedora.github.io/BMP280Proto/](https://tanagogedora.github.io/bmp280betaVrJP/)
 
 ---
 ## 📦 How to Use / 使い方
@@ -19,7 +19,7 @@ Sensor values are based on the official BMP280 datasheet.
 1. Create a new project
 1. Click the gear icon (⚙) → "Extensions"
 1. Paste the following URL to add the extension  
-   `https://github.com/tanagogedora/bmp280betaVrJP`   
+   `https://github.com/tanagogedora/BMP280Proto`   
 
 ---
 
@@ -29,7 +29,7 @@ Sensor values are based on the official BMP280 datasheet.
 1. 「新しいプロジェクト」をクリック
 1. 画面右上のギアボタン（⚙）をクリックし、「拡張機能」を選択 
 1. 下記の URL を検索または貼り付けてインポート    
-   `https://github.com/tanagogedora/bmp280betaVrJP` 
+   `https://github.com/tanagogedora/BMP280Proto` 
 
 ### 🖼 Example Blocks / ブロック例
 
@@ -42,7 +42,7 @@ Sensor values are based on the official BMP280 datasheet.
 1. Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 1. Click "Import" → "Import URL"
 1. Paste this URL
-`https://github.com/tanagogedora/bmp280betaVrJP`  
+`https://github.com/tanagogedora/BMP280Proto`  
 
 ---
 
@@ -51,7 +51,7 @@ Sensor values are based on the official BMP280 datasheet.
 1. MakeCode [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 1. 「読み込む」→「URLから読み込む…」を選択
 1. 以下の URL を貼り付けてインポート :  
-   `https://github.com/tanagogedora/bmp280betaVrJP`
+   `https://github.com/tanagogedora/BMP280Proto`
 
 ---
 
