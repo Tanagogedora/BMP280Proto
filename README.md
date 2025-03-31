@@ -10,7 +10,7 @@ Sensor values are based on the official BMP280 datasheet.
 この拡張機能は、BMP280 デジタル気圧・気温センサーを micro:bit の MakeCode 上で利用するためのものです。  
 気圧と気温の測定が可能です。センサー仕様は BMP280 のデータシートに基づいています。
 
-> 🔗 **Demo Page:**デモページを見る: [https://tanagogedora.github.io/BMP280Proto/](https://tanagogedora.github.io/bmp280betaVrJP/)
+> 🔗 **Demo Page:**デモページを見る: [https://tanagogedora.github.io/BMP280Proto/](https://tanagogedora.github.io/BMP280Proto/)
 
 ---
 ## 📦 How to Use / 使い方
