@@ -1,4 +1,5 @@
 /**
+ * 日本語ONLYの旧版
  * makecode BMP280 digital pressure and temperature sensor package.
  * 
  * Based on original BME280 work from the MicroPython Chinese community:
@@ -286,5 +287,3 @@ namespace BMP280 {
         BMP280_I2C_ADDR = addr
     }
 }
-
-
