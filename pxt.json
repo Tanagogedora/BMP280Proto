@@ -1,6 +1,6 @@
 {
     "name": "BMP280Proto",
-    "description": "BMP280 MakeCode extension with multi-language support (Japanese)",
+    "description": "BMP280気象センサー",
     "icon": "icon.png",
     "dependencies": {
         "core": "*"
